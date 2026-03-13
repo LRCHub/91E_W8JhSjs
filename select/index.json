@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "私は雨",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-03-13T02:57:46.557066Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私は雨",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/01_私は雨_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私は雨",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_私は雨_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "私は雨 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_私は雨_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "私は雨",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン",
+      "has_synced": true,
+      "path": "select/04_私は雨_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "私は雨",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/05_私は雨_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "私は雨 -instrumental-",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/06_私は雨_-instrumental-_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "私は雨 (Watashi wa Ame)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/07_私は雨_(Watashi_wa_Ame)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "私は雨 (I am rain)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/08_私は雨_(I_am_rain)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "私は雨 (I'm the Rain)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/09_私は雨_(I'm_the_Rain)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私は雨",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_私は雨_稲葉曇.txt"
+    }
+  ]
+}
